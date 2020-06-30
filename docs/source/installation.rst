@@ -62,8 +62,8 @@ to do it http://ask.xmodulo.com/change-usb-device-permission-linux.html.
 On Windows, you may have to uninstall the USBTMC specific driver installed by
 Windows and re-install a generic driver.
 
-Another useful reference for how to configure your system is h
-ttps://github.com/python-ivi/python-usbtmc.
+Another useful reference for how to configure your system is 
+https://github.com/python-ivi/python-usbtmc.
 
 
 How do I know if PyVISA-py is properly installed?
